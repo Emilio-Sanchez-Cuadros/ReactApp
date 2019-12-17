@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "Title": "Task 1",
+            "Owner": "Emilio",
+            "Description": "Lorem ipsum",
+            "Priority": "low"
+        },
+        {
+            "Title": "Task 2",
+            "Owner": "Blanca",
+            "Description": "Lorem ipsum 2",
+            "Priority": "medium"
+        },
+        {
+            "Title": "Task 3",
+            "Owner": "Lucía",
+            "Description": "Lorem ipsum 3",
+            "Priority": "high"
+        },
+        {
+            "Title": "Task 4",
+            "Owner": "Antonio",
+            "Description": "Lorem ipsum 4",
+            "Priority": "high"
+        }
+    ]
+}

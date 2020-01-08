@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+This is my first React App. It consists in a basic tasks manager. It has been created following a youtube tutorial:
+
+https://www.youtube.com/watch?v=iHqa6ojKnHI
+
+Author: Fazt
+
 ## Available Scripts
 
 In the project directory, you can run:
